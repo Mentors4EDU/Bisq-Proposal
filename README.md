@@ -38,3 +38,5 @@ Bisq as a decentralized exchange has the potential for many social aspects and t
 ## MVP Built
 
 ## Project Launch
+
+*For sake of transparency, in regards to issue edits on consensus, you can see the draft history via the repo [here](https://github.com/Mentors4EDU/Bisq-Proposal). This is as of the writing of this proposal.*
