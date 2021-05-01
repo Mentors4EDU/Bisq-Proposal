@@ -19,6 +19,8 @@ Users can have the option between trading in real time or with a test network. O
 ## Simulation Modes
 You will be able to see simulation charts for the different trading histories and have the option to follow user's trades. You can follow trades that users do with real money including test network strategies. You can also run simulation tests. When following test network strategies with real money, that means every time the user inputs a simulated trade, you are actually doing that trade with real money. This is similar to other social trading websites such as Collective2's TOS badge or eToro's hypothetical performance charts.
 
+For charting and market data, we would use the default Bisq charts or build untop of them.
+
 ## Support for Scripts
 
 ## Ranking Mechanism
