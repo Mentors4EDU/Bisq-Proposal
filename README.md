@@ -14,8 +14,12 @@ There will need to be a series of modules and/or components integrated into this
 The profile needs to have just the basics. Optionally, it doesn't really have to have a profile picture but can denote some sort of icon given that a profile picture is just meaningless data storage. *(At least in this instance)*. It depends on the community's preference. What it will have will include a description, a link to website, and a button to view trade history. It will also include metrics in regards to percentages for YoY returns. There will be a follow trades button which the user can input a certain percentage such as the default commission being 5% or set a custom fee. The ability to chose between both fee and percentage can offer flexibility for many users.
 
 ## Trade History
+Users can have the option between trading in real time or with a test network. Obviously, uou only earn for real trades. There will be a tab for real time trades and test network trades. The tabs for trade history will only show entry and exit prices and percentages, it will not show how much money was put in order to encourage fair markets and a layer of anonymity.
 
 ## Simulation Modes
+You will be able to see simulation charts for the different trading histories and have the option to follow user's trades. You can follow trades that users do with real money including test network strategies. You can also run simulation tests. When following test network strategies with real money, that means everytime the user inputs a simulated trade, you are actually doing that trade with real money. This is similar to other social trading website's such as Collective2's TOS badge or eToro's hypothetical performances charts.
+
+## Scripts Supports
 
 ## Ranking Mechanism
 
