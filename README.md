@@ -22,6 +22,7 @@ You will be able to see simulation charts for the different trading histories an
 For charting and market data, we would use the default Bisq charts or build untop of them.
 
 ## Support for Scripts
+I recommmend support for the [Julia programming language](https://julialang.org/), given it is suited for numerical analysis and perfect for Quant traders. I think you can utilize some sort of embded API for implementation. In regards to what support for Julia could do, is that people can not just make manually trading strategies, but also make trading strategies that are automated or custom indicators that people can trade with for a fee percentage or custom licensing fee. The support for both manual and robotraders is something many social trading networks have, and support for Julia can attract alot of quants and mathematicians. Optionally, we can add secondary support for Python as well, but the use of Python has already been overly utilized.
 
 ## Ranking Mechanism
 
