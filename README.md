@@ -27,6 +27,11 @@ I recommmend support for the [Julia programming language](https://julialang.org/
 In regards to Julia, packages such as the [decentralized-internet](https://github.com/Lonero-Team/Decentralized-Internet) SDK, [Gen](https://www.gen.dev/), [Quandl.jl](https://juliapackages.com/p/quandl), [TradingLogic.jl](https://juliapackages.com/p/tradinglogic), [FinMarkets.jl](https://juliapackages.com/p/finmarkets), [Ito.jl](https://juliapackages.com/p/ito), and [TradeModels.jl](https://juliapackages.com/p/trademodels) can come pre-installed to support custom developer environments.
 
 ## Ranking Mechanism
+In regards to the ranking mechanism, I believe the UML below best illustrates how that will play out:
+
+
+
+The ranking mechanism needs to support fairness and decentralization. That is why profiles are going to be ranked on performance-based metrics rather then how many people are following their trades.
 
 ## Test and Realtime Support
 
