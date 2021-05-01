@@ -8,6 +8,7 @@ Background: In response to #330 having social trading, and me wanting to also do
 Bisq as a decentralized exchange has the potential for many social aspects and technological implementations. One of those aspects could be an integration of some form or variation of social trading. Social trading as a concept is open and transparent given the utilization of actual statistics and insights based off of skills or trading abilities. This proposal is on an open-source implementation of social trading on Bisq's network.
 
 # Base Modules
+There will need to be a series of modules and/or components integrated into this project. Having something modularly built will allow for easy upgrading, and I do take somewhat of an inspiration from the Bisq-2.0 proposals. If something isn't modularly built, not only is upgrading a hassle. For certain issues, debugging and mantaining over time can also be hectic.
 
 ## Profile
 
@@ -39,4 +40,4 @@ Bisq as a decentralized exchange has the potential for many social aspects and t
 
 ## Project Launch
 
-*For sake of transparency, in regards to issue edits on consensus, you can see the draft history via the repo [here](https://github.com/Mentors4EDU/Bisq-Proposal). This is as of the writing of this proposal.*
+*For sake of transparency, in regards to issue edits based on consensus, you can see the draft history via the repo [here](https://github.com/Mentors4EDU/Bisq-Proposal). This is as of the writing of this proposal.*
