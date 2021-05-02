@@ -4,6 +4,15 @@
 
 Background: In response to #330 having social trading, and me wanting to also do social trading for a while as well, I decided to work on this proposal. I think Bisq can utilize some variation of social trading and I have a general idea of features I would hope for.
 
+#### Table of contents
+
+1. [Overview](https://github.com/Mentors4EDU/Bisq-Proposal#overview)
+2. [Base Modules](https://github.com/Mentors4EDU/Bisq-Proposal#base-modules)
+    - [Profile](https://github.com/Mentors4EDU/Bisq-Proposal#profile)
+    - [Trade History](https://github.com/Mentors4EDU/Bisq-Proposal#trade-history)
+    - [Simulation Modes](https://github.com/Mentors4EDU/Bisq-Proposal#simulation-modes)
+    - 
+
 # Overview
 Bisq as a decentralized exchange has the potential for many social aspects and technological implementations. One of those aspects could be an integration of some form or variation of social trading. Social trading as a concept is open and transparent given the utilization of actual statistics and insights based off of skills or trading abilities. This proposal is on an open-source implementation of social trading on Bisq's network.
 
@@ -36,6 +45,8 @@ The ranking mechanism should support fairness and decentralization. That is why 
 ## Test and Realtime Support
 
 ## Disclosures
+
+## Regarding Privacy
 
 # Roadmap 
 
