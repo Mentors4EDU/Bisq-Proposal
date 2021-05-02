@@ -11,7 +11,20 @@ Background: In response to #330 having social trading, and me wanting to also do
     - [Profile](https://github.com/Mentors4EDU/Bisq-Proposal#profile)
     - [Trade History](https://github.com/Mentors4EDU/Bisq-Proposal#trade-history)
     - [Simulation Modes](https://github.com/Mentors4EDU/Bisq-Proposal#simulation-modes)
-    - 
+    - [Support for Scripts](https://github.com/Mentors4EDU/Bisq-Proposal#support-for-scripts)
+    - [Ranking Mechanism](https://github.com/Mentors4EDU/Bisq-Proposal#ranking-mechanism)
+    - [Test and Realtime Support](https://github.com/Mentors4EDU/Bisq-Proposal#test-and-realtime-support)
+    - [Disclosures](https://github.com/Mentors4EDU/Bisq-Proposal#disclosures)
+        - [Regarding Privacy](https://github.com/Mentors4EDU/Bisq-Proposal#regarding-privacy)
+3. [Roadmap](https://github.com/Mentors4EDU/Bisq-Proposal#roadmap)
+4. [Project Goals](https://github.com/Mentors4EDU/Bisq-Proposal#project-goals)
+    - [Basic Community Acceptance](https://github.com/Mentors4EDU/Bisq-Proposal#basic-community-acceptance)
+    - [Get Funding](https://github.com/Mentors4EDU/Bisq-Proposal#get-funding)
+    - [Design and Mockups](https://github.com/Mentors4EDU/Bisq-Proposal#design-and-mockups)
+    - [Hiring Team](https://github.com/Mentors4EDU/Bisq-Proposal#hiring-team)
+    - [Marketing](https://github.com/Mentors4EDU/Bisq-Proposal#marketing)
+    - [MVP Built](https://github.com/Mentors4EDU/Bisq-Proposal#mvp-built)
+    - [Project Launch](https://github.com/Mentors4EDU/Bisq-Proposal#project-launch)
 
 # Overview
 Bisq as a decentralized exchange has the potential for many social aspects and technological implementations. One of those aspects could be an integration of some form or variation of social trading. Social trading as a concept is open and transparent given the utilization of actual statistics and insights based off of skills or trading abilities. This proposal is on an open-source implementation of social trading on Bisq's network.
