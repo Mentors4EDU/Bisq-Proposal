@@ -2,7 +2,7 @@
 
 <!-- Please do not remove the text above. -->
 
-Background: In response to #330 having social trading, and me wanting to also do social trading for a while as well, I decided to work on this proposal. I think Bisq can utilize some variation of social trading and I have a general idea of features I would hope for.
+**Background:** In response to #330 having social trading, and me wanting to also do social trading for a while as well, I decided to work on this proposal. I think Bisq can utilize some variation of social trading and I have a general idea of features I would hope for.
 
 #### Table of contents
 
