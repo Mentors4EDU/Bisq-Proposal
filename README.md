@@ -60,6 +60,7 @@ As noted, both trades on a test network and realtime strategies can be followed.
 Likely some sort of risk disclosure will need to be implemented that is site-wide and usage specific. This is due to the nature of exchanges and social trading in general, and the disclosure text can be open-sourced or within the public domain.
 
 ## Regarding Privacy
+I think users can have the option of being public to an extent *(description and site profile fields)*, or having some level of anonymity or pseudonymity. There has been comments in the past regarding levels of pseudonymity, and I believe the network can still have privacy-centric aspects to it. This will be one of the key focuses or aspects to look at in regards to development.
 
 # Roadmap 
 
