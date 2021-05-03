@@ -51,7 +51,7 @@ In regards to Julia, packages such as the [decentralized-internet](https://githu
 ## Ranking Mechanism
 In regards to the ranking mechanism, I believe the UML below best illustrates how that will play out:
 
-
+![UML_SocialTrading](https://raw.githubusercontent.com/Mentors4EDU/Bisq-Proposal/main/Images/Social%20Trading.PNG)
 
 The ranking mechanism should support fairness and decentralization. That is why profiles are going to be ranked on performance-based metrics rather than how many people are following their trades. The metrics are going to be: Categories for YoY estimated ROI %, ROI % per Trade, and a Risk Tolerance subcatagory. Risk tolerance in regards to uncertainty is measured by drawdown percentage in relation to returns. The better one performs, the higher they are ranked in a certain category. Performance-based is the best type of ranking mechanism in the world of trading.
 
