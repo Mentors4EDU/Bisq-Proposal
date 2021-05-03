@@ -54,6 +54,7 @@ In regards to the ranking mechanism, I believe the UML below best illustrates ho
 The ranking mechanism should support fairness and decentralization. That is why profiles are going to be ranked on performance-based metrics rather than how many people are following their trades. The metrics are going to be: Categories for YoY estimated ROI %, ROI % per Trade, and a Risk Tolerance subcatagory. Risk tolerance in regards to uncertainty is measured by drawdown percentage in relation to returns. The better one performs, the higher they are ranked in a certain category. Performance-based is the best type of ranking mechanism in the world of trading.
 
 ## Test and Realtime Support
+As noted, both trades on a test network and realtime strategies can be followed. The same applies whether it is manual or automated. This is actually a good thing, because along with the ranking mechanism, traders can be rewarded on skills rather then them putting large amounts of money in their strategies upfront. Also, lower income traders might be higher skilled then some higher income traders. Leveling up the playing field is key.
 
 ## Disclosures
 
