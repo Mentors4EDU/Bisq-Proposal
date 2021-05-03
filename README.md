@@ -78,8 +78,10 @@ The funding I am looking for is around 35k Bisq done through the Bisq DAO. Altho
 Part of this project will also include a design phase. We want to make sure that the design fits well with Bisq's current UI and UX. This includes everything from trade history and order books to its social aspects.
 
 ## Hiring Team
+The team will be paid from the Bisq funding pool. I will be taking the role of mostly a PM and CTO during the development process. I won't be taking from the funding pool, but rather instead be taking trading fees as a form of managing the platform over time and sort of being its chief technologist and marketing strategist. Many marketing costs that may occur afterwards will be mostly on my own dime.
 
 ## Marketing
+I think marketing is a thing Bisq lacks. You can still be decentralized and theoretically teamless while focusing on others to use your software. I believe that social trading provides the opporunity to tap into markets that Bisq has yet to enter. Also with the rise of many DEX and supposed "DeFi" apps, I believe Bisq can offer a popular alternative to what is mainstream.
 
 ## MVP Built
 
