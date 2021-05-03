@@ -84,7 +84,9 @@ The team will be paid from the Bisq funding pool. I will be taking the role of m
 I think marketing is a thing that Bisq lacks. You can still be decentralized and theoretically teamless while focusing on others to use your software. I believe that social trading provides the opporunity to tap into markets that Bisq has yet to enter. Also, with the rise of many DEX and supposed "DeFi" apps, I believe Bisq can offer a popular alternative to what is mainstream.
 
 ## MVP Built
+Once the MVP is built, we will start garnishing some community feedback and preparing for the launch.
 
 ## Project Launch
+Once all the milestones are met, the MVP has been built, and things are ready for full deployment, it will be officially launch time. My focus at that time will than be marketing, network growth and scalability.
 
 *For sake of transparency, in regards to issue edits based on consensus, you can see the draft history via the repo [here](https://github.com/Mentors4EDU/Bisq-Proposal). This is as of the writing of this proposal.*
