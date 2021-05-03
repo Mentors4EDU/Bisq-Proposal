@@ -57,6 +57,7 @@ The ranking mechanism should support fairness and decentralization. That is why 
 As noted, both trades on a test network and realtime strategies can be followed. The same applies whether it is manual or automated. This is actually a good thing, because along with the ranking mechanism, traders can be rewarded on skills rather then them putting large amounts of money in their strategies upfront. Also, lower income traders might be higher skilled then some higher income traders. Leveling up the playing field is key.
 
 ## Disclosures
+Likely some sort of risk disclosure will need to be implemented that is site-wide and usage specific. This is due to the nature of exchanges and social trading in general, and the disclosure text can be open-sourced or within the public domain.
 
 ## Regarding Privacy
 
