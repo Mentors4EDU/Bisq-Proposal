@@ -75,6 +75,7 @@ We are hoping to receive an *ACK* for this proposal. Please keep in mind that pr
 The funding I am looking for is around 35k Bisq done through the Bisq DAO. Although this is negotiable, I calculated how much it would cost for the potential hiring of engineers + my time allocation. The actual [COCOMO model](https://www.javatpoint.com/cocomo-model) would suggest probably alot more. Also, I would want a 0.25% trading fee in regards to project maintance over time *(from the social trading only)*. Keep in mind this will still be open-source. Again, the funding will likely be crucial given lots of time will be voluntary and the low volume of Bisq as well
 
 ## Design and Mockups
+Part of this project will also include a design phase. We want to make sure that the design fits well with Bisq's current UI and UX. This includes everything from trade history and order books to its social aspects.
 
 ## Hiring Team
 
