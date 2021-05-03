@@ -63,12 +63,16 @@ Likely some sort of risk disclosure will need to be implemented that is site-wid
 I think users can have the option of being public to an extent *(description and site profile fields)*, or having some level of anonymity or pseudonymity. There has been comments in the past regarding levels of pseudonymity, and I believe the network can still have privacy-centric aspects to it. This will be one of the key focuses or aspects to look at in regards to development.
 
 # Roadmap 
+There are lots of things to take into consideration in regards to building this platform. Most likely from acceptance and funding to MVP, the timeline is 4 to 5 month with around 4 to 7 part time and voluntary software developers. More details will be in the funding section. This is almost the equavalent of building a full scale exchange given the advancements needing to be in place, but is a very ambitious and promising project.
 
 # Project Goals
+In regards to project goals, besides a basic *ACK*, we are trying to get funding, design, build and market the platform. My goal is to eventually mantain this and personally work on marketing this platform and bringing more awareness towards Bisq. There are already lots of mediums I have to market this as a career-long startup advisor, and I have a general idea of how I will be managing the technological implementations of this project.
 
 ## Basic Community Acceptance
+We are hoping to receive an *ACK* for this proposal. Please keep in mind that proposals can be commented on, discussed and updated over time. Also, remember critism is best handled with a degree of respect and politeness within the context of the idea being critiqued.
 
 ## Get Funding
+The funding I am looking for is around 35k Bisq done through the Bisq DAO. Although this is negotiable, I calculated how much it would cost for the potential hiring of engineers + my time allocation. The actual [COCOMO model](https://www.javatpoint.com/cocomo-model) would suggest probably alot more. Also, I would want a 0.25% trading fee in regards to project maintance over time *(from the social trading only)*. Keep in mind this will still be open-source. Again, the funding will likely be crucial given lots of time will be voluntary and the low volume of Bisq as well
 
 ## Design and Mockups
 
