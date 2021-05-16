@@ -35,6 +35,8 @@ There will need to be a series of modules and/or components integrated into this
 ## Profile
 The profile needs to have just the basics. ~~Optionally, it doesn't really have to have a profile picture but can denote some sort of icon given that a profile picture is just meaningless data storage. *(At least in this instance)*. It depends on the community's preference.~~ What it will have will include ~~a description, a link to website, and~~ a button to view trade history. It will also include metrics in regards to percentages for YoY returns. There will be a follow trades button which the user can input a certain percentage such as the default commission being 5% or set a custom fee. The ability to chose between both fee and percentage can offer flexibility for many users.
 
+*These features have been crossed out to preserve the privacy-preserving nature of the network (even though they are optional). This is as to not pressure someone into thinking they need to be included*
+
 ## Trade History
 Users can have the option between trading in real time or with a test network. Obviously, you only earn for real trades. There will be a tab for real time trades and test network trades. The tabs for trade history will only show entry and exit prices and percentages, it will not show how much money was put in order to encourage fair markets and a layer of anonymity.
 
@@ -60,7 +62,9 @@ As noted, both trades on a test network and realtime strategies can be followed.
 Likely some sort of risk disclosure will need to be implemented that is site-wide and usage specific. This is due to the nature of exchanges and social trading in general, and the disclosure text can be open-sourced or within the public domain.
 
 ## Regarding Privacy
-I think users can have the option of being public to an extent *(description and site profile fields)*, or having some level of anonymity or pseudonymity. There has been comments in the past regarding levels of pseudonymity, and I believe the network can still have privacy-centric aspects to it. This will be one of the key focuses or aspects to look at in regards to development.
+~~I think users can have the option of being public to an extent *(description and site profile fields)*, or having some level of anonymity or pseudonymity.~~ There has been comments in the past regarding levels of pseudonymity, and I believe the network can still have privacy-centric aspects to it. This will be one of the key focuses or aspects to look at in regards to development.
+
+*These comments have been crossed out to preserve the privacy-preserving nature of the network (even though they are optional). This is as to not pressure someone into thinking they need to be included*
 
 # Roadmap 
 There are lots of things to take into consideration in regards to building this platform. Most likely from acceptance and funding to MVP, the timeline is 4 to 5 month with around 4 to 7 part time and voluntary software developers. More details will be in the funding section. This is almost the equivalent of building a full scale exchange given the advancements needing to be in place, but it is a very ambitious and promising project.
