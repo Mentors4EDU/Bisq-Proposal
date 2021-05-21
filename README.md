@@ -16,6 +16,12 @@
     - [Test and Realtime Support](https://github.com/Mentors4EDU/Bisq-Proposal#test-and-realtime-support)
     - [Disclosures](https://github.com/Mentors4EDU/Bisq-Proposal#disclosures)
         - [Regarding Privacy](https://github.com/Mentors4EDU/Bisq-Proposal#regarding-privacy)
+        - [Addressing Liquidity](https://github.com/Mentors4EDU/Bisq-Proposal#addressing-liquidity)
+    - [New Privacy Integrations](https://github.com/Mentors4EDU/Bisq-Proposal#new-privacy-integrations)
+        - [Preserving Privacy](https://github.com/Mentors4EDU/Bisq-Proposal#preserving-privacy)   
+        - [Layers of Anonymity](https://github.com/Mentors4EDU/Bisq-Proposal#layers-of-anonymity)
+        - [Validation Mechanisms](https://github.com/Mentors4EDU/Bisq-Proposal#validation-mechanisms)
+            - [Regarding Reputation](https://github.com/Mentors4EDU/Bisq-Proposal#regarding-reputation) 
 3. [Roadmap](https://github.com/Mentors4EDU/Bisq-Proposal#roadmap)
 4. [Project Goals](https://github.com/Mentors4EDU/Bisq-Proposal#project-goals)
     - [Basic Community Acceptance](https://github.com/Mentors4EDU/Bisq-Proposal#basic-community-acceptance)
@@ -70,9 +76,9 @@ Likely some sort of risk disclosure will need to be implemented that is site-wid
 
 # New Privacy Integrations
 
-## Layers of Anonymity
-
 ## Preserving Privacy
+
+## Layers of Anonymity
 
 ## Validation Mechanisms
 
