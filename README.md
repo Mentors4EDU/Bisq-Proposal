@@ -66,6 +66,18 @@ Likely some sort of risk disclosure will need to be implemented that is site-wid
 
 *These comments have been crossed out to preserve the privacy-preserving nature of the network (even though they are optional). This is as to not pressure someone into thinking they need to be included.*
 
+## Addressing Liquidity
+
+# New Privacy Integrations
+
+## Layers of Anonymity
+
+## Preserving Privacy
+
+## Validation Mechanisms
+
+### Regarding Reputation
+
 # Roadmap 
 There are lots of things to take into consideration in regards to building this platform. Most likely from acceptance and funding to MVP, the timeline is 4 to 5 month with around 4 to 7 part time and voluntary software developers. More details will be in the funding section. This is almost the equivalent of building a full scale exchange given the advancements needing to be in place, but it is a very ambitious and promising project.
 
