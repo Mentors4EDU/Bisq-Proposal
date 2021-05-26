@@ -73,7 +73,7 @@ Likely some sort of risk disclosure will need to be implemented that is site-wid
 *These comments have been crossed out to preserve the privacy-preserving nature of the network (even though they are optional). This is as to not pressure someone into thinking they need to be included.*
 
 ## Addressing Liquidity
-WIP
+In regards to liquidity, it is of my opinion that liquidity wouldn't be too much of an issue in the long run. Also, it may not be the best reason as to why something should or should not be developed. While Bisq still isn't in its infancy and alot of its users tend to be Bitcoin maximalist and non-sellers, this has more or less to do with Bisq's technological premise. Yes, liquitity is quite small, but the technology in regards to supporting high liquidity is within reach. It is of my opinion that with integrations such as social trading and the features disucssed in proposals such as these, liquity will no longer be an issue.
 
 # New Privacy Integrations
 WIP
