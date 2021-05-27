@@ -76,7 +76,7 @@ Likely some sort of risk disclosure will need to be implemented that is site-wid
 In regards to liquidity, it is of my opinion that liquidity wouldn't be too much of an issue in the long run. Also, it may not be the best reason as to why something should or should not be developed. While Bisq still isn't in its infancy and alot of its users tend to be Bitcoin maximalist and non-sellers, this has more or less to do with Bisq's technological premise. Yes, liquitity is quite small, but the technology in regards to supporting high liquidity is within reach. It is of my opinion that with integrations such as social trading and the features disucssed in proposals such as these, liquity will no longer be an issue.
 
 # New Privacy Integrations
-WIP
+Integrations for privacy and privacy preservation are of the outmost importance. That is why instead of just focusing on reputation, one must also focus on numerous privacy layers in regards to reputation. Currently, even given the P2P compatibilities and the difficulty to store data without sacraficing privacy, comes new ideas centered around tackling these issues. These issues can not be tackled in a way that isn't decentralized or doesn't make sense through the lens of technological compatibility.
 
 ## Preserving Privacy
 WIP
