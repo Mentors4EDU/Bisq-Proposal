@@ -79,7 +79,7 @@ In regards to liquidity, it is of my opinion that liquidity wouldn't be too much
 Integrations for privacy and privacy preservation are of the outmost importance. That is why instead of just focusing on reputation, one must also focus on numerous privacy layers in regards to reputation. Currently, even given the P2P compatibilities and the difficulty to store data without sacraficing privacy, comes new ideas centered around tackling these issues. These issues can not be tackled in a way that isn't decentralized or doesn't make sense through the lens of technological compatibility.
 
 ## Preserving Privacy
-WIP
+As mentioned, privacy preservation is of the outmost importance. While, transactions are still hashed on Bitcoin's blockchain, there are still other layers of privacy that can be integrated beyond this. This is especially true in relation of preservation of trade history or other related data.
 
 ## Layers of Anonymity
 WIP
