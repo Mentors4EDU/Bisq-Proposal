@@ -2,7 +2,11 @@
 
 <!-- Please do not remove the text above. -->
 
-**Background:** In response to #330 having social trading, and me wanting to also do social trading for a while as well, I decided to work on this proposal. I think Bisq can utilize some variation of social trading and I have a general idea of features I would hope for.
+# Bisq 2.0 - Social Trading Expansion Proposal
+
+**Author:** *Andrew Kamal* [@Mentors4EDU](https://github.com/Mentors4EDU)
+
+**Background:** In response to [#330](https://github.com/bisq-network/proposals/issues/330) having social trading, and me wanting to also do social trading for a while as well, I decided to work on this proposal. I think Bisq can utilize some variation of social trading and I have a general idea of features I would hope for.
 
 #### Table of contents
 
