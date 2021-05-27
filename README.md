@@ -61,8 +61,11 @@ I recommend support for the [Julia programming language](https://julialang.org/)
 In regards to Julia, packages such as the [decentralized-internet](https://github.com/Lonero-Team/Decentralized-Internet) SDK, [Gen](https://www.gen.dev/), [Quandl.jl](https://juliapackages.com/p/quandl), [TradingLogic.jl](https://juliapackages.com/p/tradinglogic), [FinMarkets.jl](https://juliapackages.com/p/finmarkets), [Ito.jl](https://juliapackages.com/p/ito), and [TradeModels.jl](https://juliapackages.com/p/trademodels) can come pre-installed to support custom developer environments.
 
 ## Ranking Mechanism
-In regards to the ranking mechanism, I believe the UML below best illustrates how that will play out: \
-![UML_SocialTrading](https://raw.githubusercontent.com/Mentors4EDU/Bisq-Proposal/main/Images/Social%20Trading.PNG) \
+In regards to the ranking mechanism, I believe the UML below best illustrates how that will play out:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Mentors4EDU/Bisq-Proposal/main/Images/Social%20Trading.PNG" width="400" alt="TradingUML">
+  </a>
+</p>
 The ranking mechanism should support fairness and decentralization. That is why profiles are going to be ranked on performance-based metrics rather than how many people are following their trades. The metrics are going to be: Categories for YoY estimated ROI %, ROI % per Trade, and a Risk Tolerance subcategory. Risk tolerance in regards to uncertainty is measured by drawdown percentage in relation to returns. The better one performs, the higher they are ranked in a certain category. Performance-based is the best type of ranking mechanism in the world of trading.
 
 ## Test and Realtime Support
