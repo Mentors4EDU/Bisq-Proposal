@@ -83,16 +83,16 @@ In regards to liquidity, it is of my opinion that liquidity wouldn't be too much
 Integrations for privacy and privacy preservation are of the outmost importance. That is why instead of just focusing on reputation, one must also focus on numerous privacy layers in regards to reputation. Currently, even given the P2P compatibilities and the difficulty to store data without sacraficing privacy, comes new ideas centered around tackling these issues. These issues can not be tackled in a way that isn't decentralized or doesn't make sense through the lens of technological compatibility.
 
 ## Preserving Privacy
-As mentioned, privacy preservation is of the outmost importance. While, transactions are still hashed on Bitcoin's blockchain, there are still other layers of privacy that can be integrated beyond this. This is especially true in relation of preservation of trade history or other related data.
+As mentioned, privacy preservation is of the outmost importance. While, transactions are still hashed on Bitcoin's blockchain, there are still other layers of privacy that can be integrated beyond this. This is especially true in relation to preservation of trade history or other related data.
 
 ## Layers of Anonymity
-WIP
+An example integration can be an anonymity layer or custom sidechain, that focuses on preserving and hashing data or being like a secondary shield. This can be custom coded and built as a P2P decentralized feature with no central authority or database.
 
 ## Validation Mechanisms
-WIP
+Numerous data and validation mechanisms can be put into place. This includes how Bisq already completes market orders, as well as variations of privacy-preserving transactional escrows for different forms of trades. Instead of overcomplicating the solution, the focus should be on technological protocols that don't integrate a form of data collection, but do integrate a form of data shielding and ecryption without actually storing the data.
 
 ### Regarding Reputation
-WIP
+The same formalities can apply to reputation. There could be voting mechanisms given profiles are anonymous. However, taking this a step further, if one properly integrates various forms of transactional escrows and already shields data, then reputation shouldn't be an issue. If you can rank trades anoynmously and also not push invalid trades through, then that is already the primary focus. Bisq already does a great job in many of these things, but integrating extra layers of privacy while having something such as social trading, can really reiterate both the privacy-preserving and network compatibilities that make Bisq a great contendor.
 
 # Roadmap 
 There are lots of things to take into consideration in regards to building this platform. Most likely from acceptance and funding to MVP, the timeline is 4 to 5 month with around 4 to 7 part time and voluntary software developers. More details will be in the funding section. This is almost the equivalent of building a full scale exchange given the advancements needing to be in place, but it is a very ambitious and promising project.
